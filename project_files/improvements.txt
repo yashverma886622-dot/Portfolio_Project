@@ -1,0 +1,7 @@
+Future Improvements:
+
+1. Make the website responsive for mobile and tablet screens.
+2. Add JavaScript animations to make the website more interactive.
+3. Add more projects in the Projects section.
+4. Improve layout using Flexbox or Grid.
+5. Add a dark mode toggle button in the future.
