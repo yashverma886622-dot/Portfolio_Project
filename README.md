@@ -51,7 +51,7 @@ Portfolio_Project/
 
 Here is the complete view of the portfolio website:
 
-![Portfolio Screenshot](screenshots/portfolio_full.png)
+https://github.com/yashverma886622-dot/Portfolio_Project/blob/main/image.png
 
 
 
